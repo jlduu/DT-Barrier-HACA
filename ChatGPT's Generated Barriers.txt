@@ -1,0 +1,43 @@
+# User:
+## Positioning 
+You are an expert specializing in the digital transformation (DT) of Complex Product Systems (CoPS), with dual expertise in both industry and academia. Your mission is to assist small and medium-sized enterprises (SMEs) and organizations in designing, implementing, and optimizing DT strategies to enhance system efficiency, innovation capability, and market competitiveness. 
+
+## Capabilities 
+- Analyze the current state and needs of SMEs undergoing DT in CoPS. 
+- Identify DT opportunities and barriers, and formulate customized transition strategies. 
+
+## Knowledge Base 
+- Proficient in DT frameworks, systems engineering, and complex systems theory. 
+- Familiar with relevant technological domains, including the Internet of Things (IoT), big data, artificial intelligence, and automation systems. 
+- Well-versed in industry best practices and case studies spanning offshore engineering equipment, aerospace, satellite systems, large-scale communication systems, shipbuilding, high-speed railways, and automotive sectors. 
+- Knowledge grounded in the latest industry trends and standards, as well as cutting-edge academic research, ensuring practical and forward-looking recommendations. 
+
+Please list the potential barriers that small and medium-sized enterprises (SMEs) in Complex Product Systems (CoPS) may encounter during their digital transformation. Present the barriers and their explanations in a table format (Barriers | Explanation).
+
+# ChatGPT:
+## Potential barriers for SMEs in CoPS during digital transformation
+
+| Barrier                                        | Explanation                                                                                                                                                                      |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Financial constraints & limited capital        | DT often requires upfront investment in hardware, software, integration and training; SMEs may lack budget or access to financing, making phased or risky investments difficult. |
+| Lack of digital skills & talent shortage       | SMEs frequently struggle to recruit/retain engineers, data scientists and IT staff with CoPS-relevant skills (systems engineering, OT/IT convergence, AI).                       |
+| Legacy systems & technical debt                | Older equipment, proprietary PLCs, and bespoke control systems make integration with modern platforms costly and technically complex.                                            |
+| Organizational resistance & culture            | Employees and mid-management may resist process changes, fearing job loss or loss of control; entrenched siloed thinking blocks cross-functional collaboration.                  |
+| Unclear strategy & weak leadership buy-in      | Without a clear DT vision and committed leaders, projects become fragmented, underfunded or abandoned.                                                                           |
+| Data quality, availability & governance        | Sensor gaps, inconsistent formats, missing histories and poor metadata prevent reliable analytics and model-driven decisions.                                                    |
+| Interoperability & lack of standards           | Diverse suppliers and bespoke interfaces in CoPS cause integration headaches and require custom adapters or middleware.                                                          |
+| Cybersecurity & safety concerns                | Connecting operational technology to networks increases attack surface and risks safety-critical failures; SMEs often lack mature cyber practices.                               |
+| Regulatory, certification & compliance hurdles | Tight safety, environmental and industry certifications (e.g., aerospace, maritime) slow change and require validated development pathways.                                      |
+| Supplier ecosystem complexity                  | Many SMEs are part of extended supply chains; dependence on larger partners’ timelines, standards or legacy systems can block DT progress.                                       |
+| Uncertain ROI & long payback periods           | Benefits from DT (efficiency, predictive maintenance) can take years to materialize, making investment decisions risky for SMEs.                                                 |
+| Vendor lock-in & immature supplier market      | Proprietary platforms and weak competition can force SMEs into expensive long-term vendor relationships.                                                                         |
+| Scalability & infrastructure limits            | Cloud/edge compute, bandwidth and ruggedized IT/OT hardware needs may exceed SME capacity for scaling pilots to production.                                                      |
+| Change management & workforce upskilling       | Retraining operational staff, redesigning roles and managing transitional productivity dips requires sustained effort and resources.                                             |
+| Intellectual property & data ownership         | Ambiguities over who owns data and derived IP (between SMEs, customers and platform providers) can stall initiatives.                                                            |
+| Project & systems-engineering capability gaps  | CoPS DT requires complex multi-disciplinary projects — many SMEs lack seasoned program managers and systems engineers.                                                           |
+| Fragmented KPIs & measurement difficulties     | Traditional KPIs (utilization, output) may not capture DT value (reliability, reduced risk), making success hard to demonstrate.                                                 |
+| Operational continuity & risk aversion         | High consequence of downtime in CoPS makes teams reluctant to change proven operational processes or test new tech in production.                                                |
+| Environmental & site constraints               | Harsh operating environments (offshore, industrial) place limits on sensors, connectivity and equipment choices.                                                                 |
+| Short-term commercial pressures                | Focus on delivery milestones and cash flow can deprioritize longer-term DT work that yields strategic value later.                                                               |
+
+If you’d like, I can (a) prioritize these by impact and ease-of-mitigation for your SME, (b) map them to mitigation actions, or (c) tailor the table to a specific CoPS sector (offshore, aerospace, rail, etc.). Which would you prefer?
